@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @KazPV
 - 👀 I’m interested in...well, a lot of stuff. Gaming, reading, music and so on. Too many to list.
 - 🌱 I’m currently learning web development on The Odin Project.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-KazPV/KazPV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 💞️ I’m looking to collaborate on projects later on, once I've gained enough experience.
+- 📫 You can reach me through my (currently empty) LinkedIn: https://www.linkedin.com/in/v%C5%A9-ph%E1%BA%A1m-anh-845924176/
